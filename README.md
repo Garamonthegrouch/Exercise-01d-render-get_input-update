@@ -1,4 +1,3 @@
-
 # Exercise-01d-render-get_input-update
 Exercise for MSCH-C220, 2 September 2021
 
@@ -15,4 +14,3 @@ None
 
 ## Created by
 Mark Grosser
-```
